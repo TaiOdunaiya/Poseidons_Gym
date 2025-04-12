@@ -67,7 +67,7 @@ For any questions or concerns, please contact us at:
 - Images from Unsplash
 
 ---
-Made with 💪 by [Your Name] © <span id="current-year"></span>
+Made with 💪 by Tai Odunaiya © <span id="current-year"></span>
 <script>
     document.getElementById('current-year').textContent = new Date().getFullYear();
 </script>
